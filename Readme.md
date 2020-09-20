@@ -1,5 +1,8 @@
-# Flask + posgres + guinicor + nginx
+# BiteMap
 
-Este es un tutorial para dockerizar aplicaciones web con flask y docker
-siguiendo el tutorial 
-https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx/
+Right now This is a webapp to pin locations in a map, eventually it will let you take notes on locations, 
+save favorite locations and generate routes betwen  pins.
+
+TODO:
+ 
+### STACK: Docker + Linux + python + Flask + guinicorn + nginx + google maps api + bootstrap + javascript
